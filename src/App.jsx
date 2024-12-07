@@ -33,7 +33,7 @@ function App() {
       longitude: -73.9442,
       createdAt: new Date(),
       user: {
-        name: 'Ramesh',
+        name: 'Bill',
         avatar: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop',
         verified: true,
         rating: 4.5,
