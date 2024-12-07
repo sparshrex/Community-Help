@@ -62,7 +62,7 @@ Experience the app live! Click the link below to access the deployed version of 
 
 This project is developed and maintained by:
 
-- **Your Name**  
+- **Sparsh Verma**  
   [GitHub Profile](https://github.com/sparshrex)  
   [LinkedIn Profile](https://www.linkedin.com/in/sparshverma094/)  
 
